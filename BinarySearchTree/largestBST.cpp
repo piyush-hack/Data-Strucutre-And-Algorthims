@@ -68,7 +68,6 @@ int main()
     root->right->right = new Node(7);
 
     int a = largestBST(root).ans;
-
     cout << a << endl;
 
     return 0;
