@@ -67,7 +67,7 @@ void display() {
    printf("]\n");
 }
 
-void main() {
+int main() {
    printf("Input Array: ");
    display();
    printline(50);
